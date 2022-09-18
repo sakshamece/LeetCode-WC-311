@@ -13,3 +13,6 @@ Q3 : https://leetcode.com/contest/weekly-contest-311/problems/reverse-odd-levels
 Q4 : https://leetcode.com/contest/weekly-contest-311/problems/sum-of-prefix-scores-of-strings/
 
 <img width="1205" alt="Screenshot 2022-09-18 at 3 26 32 PM" src="https://user-images.githubusercontent.com/13681142/190896458-0efcbfb4-b1a9-4830-90f0-d4b59410935d.png">
+
+
+<img width="1161" alt="Screenshot 2022-09-18 at 3 52 29 PM" src="https://user-images.githubusercontent.com/13681142/190897390-2de4ddbd-c6c5-41be-961b-9ffbce7cbe0c.png">
